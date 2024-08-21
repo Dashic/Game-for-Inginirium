@@ -1,6 +1,6 @@
 import random
 import sqlite3
-from src.constants import *
+from constants import *
 
 
 class Player:
